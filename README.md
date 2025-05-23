@@ -1,3 +1,5 @@
-HAPPY BIRTHDAY DAD!
+# Happy Birthday ป๊า 🎂
 
-hbdpapa.vercel.app
+Visit the website: [Happy Birthday ป๊า](https://hbdpapa.vercel.app)
+
+A birthday website made with love for my dad. ❤️
